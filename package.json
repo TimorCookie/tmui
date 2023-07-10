@@ -15,7 +15,7 @@
     "react": "^16.13.1",
     "react-docgen-typescript-loader": "^3.7.2",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "typescript": "^3.7.5"
   },
   "scripts": {
@@ -43,11 +43,11 @@
     ]
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^5.3.18",
-    "@storybook/addon-links": "^5.3.18",
-    "@storybook/addons": "^5.3.18",
+    "@storybook/addon-actions": "^7.0.26",
+    "@storybook/addon-links": "^7.0.26",
+    "@storybook/addons": "^7.0.26",
     "@storybook/preset-create-react-app": "^2.1.1",
-    "@storybook/react": "^5.3.18",
-    "node-sass": "^4.13.1"
+    "@storybook/react": "^7.0.26",
+    "node-sass": "^9.0.0"
   }
 }
